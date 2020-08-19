@@ -8,8 +8,7 @@ Hope you'll enjoy them !
 
 #### What is next ?
 Here is a list of idea / concept that I will probably work on (not sure):
-* A remake of [e013](https://github.com/0v3rl0w/e013) in Rust, and adding support for Linux
-* A remake of [Ya4r](https://github.com/0v3rl0w/Ya4r) in Flutter / Dart
+* Currently working on my OS [Navy](https://github.com/Project-Navy/NavyOS)
 
 <p align="center">
   <a href="https://octoprofile.now.sh/user?id=0v3rl0w"><img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=0v3rl0w&show_icons=true"></a>
