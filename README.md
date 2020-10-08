@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate pentester and OSdev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0v3rl0w" alt="0v3rl0w" /> </p>
-
 - 🔭 I’m currently working on [NavyOS](https://github.com/Project-Navy/NavyOS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyboard-Slayer?tab=repositories](https://github.com/Keyboard-Slayer?tab=repositories)
