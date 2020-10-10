@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate pentester and OSdev</h3>
 
-- 🔭 I’m currently working on [NavyOS](https://github.com/Project-Navy/NavyOS) and helping with developpement of [skiftOS](https://github.com/skiftOS/skift)
+- 🔭 I’m currently working on [NavyOS](https://github.com/Project-Navy/NavyOS) and helping with the developpement of [skiftOS](https://github.com/skiftOS/skift)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyboard-Slayer?tab=repositories](https://github.com/Keyboard-Slayer?tab=repositories)
 
