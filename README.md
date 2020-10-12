@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyboard-Slayer?tab=repositories](https://github.com/Keyboard-Slayer?tab=repositories)
 
-- 📫 How to reach me **dalcjor@libmail.eu**
+- 📫 How to reach me **keyboard-slayer@navy-os.tech** or **quality-control@skiftos.org**
 
 
 <h3 align="left">Languages and Tools:</h3>
