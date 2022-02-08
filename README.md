@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A passionate pentester and OSdev</h3>
 
-- 🔭 I’m currently working on [Experimental](https://github.com/Keyboard-Slayer/experimental)
+- 🔭 I’m currently working on [Navy](https://github.com/Keyboard-Slayer/navy-ng)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Keyboard-Slayer?tab=repositories](https://github.com/Keyboard-Slayer?tab=repositories)
 
