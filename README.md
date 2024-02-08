@@ -4,3 +4,5 @@
 :technologist: Working <a href="https://github.com/odoo">@odoo</a> (check my professional alias <a href="https://github.com/joda-odoo">@joda-odoo</a>) <br />
 :writing_hand: Probably working on yet another side project <br />
 :hammer_and_wrench: Coding since I was 12 and still coding today !
+
+You can also follow me on <a rel="me" href="https://mastodon.social/@keyb">Mastodon</a>
